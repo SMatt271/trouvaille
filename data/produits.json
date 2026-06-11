@@ -1,6 +1,6 @@
 [
     {
-        "nom": "1 Kingston DDR4 8Go 2133MHz",
+        "nom": "1 : Kingston DDR4 8Go 2133MHz",
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
@@ -10,7 +10,7 @@
     },
 
     {
-        "nom": "2 Kingston DDR4 8Go 2133MHz",
+        "nom": "2 : Kingston DDR4 8Go 2133MHz",
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
@@ -20,7 +20,7 @@
     },
 
     {
-        "nom": "3 Kingston DDR4 8Go 2133MHz",
+        "nom": "3 : Kingston DDR4 8Go 2133MHz",
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
@@ -30,7 +30,7 @@
     },
 
     {
-        "nom": "SK Hynix DDR4 8Go 3200MHZ",
+        "nom": "4 : SK Hynix DDR4 8Go 3200MHZ",
         "categorie": "RAM",
         "prixNeuf": 84.07,
         "prixOccasion": 55,
@@ -40,7 +40,7 @@
     },
 
     {
-        "nom": "SK Hynix DDR4 8Go 2400MHZ",
+        "nom": "5 : SK Hynix DDR4 8Go 2400MHZ",
         "categorie": "RAM",
         "prixNeuf": 54.64,
         "prixOccasion": 30,
@@ -50,7 +50,7 @@
     },
 
     {
-        "nom": "Crucial MX500 SSD 1To",
+        "nom": "6  : Crucial MX500 SSD 1To",
         "categorie": "SSD",
         "prixNeuf": 430.70,
         "prixOccasion": 90,
@@ -60,7 +60,7 @@
     },
 
     {
-        "nom": "Crucial MX500 SSD 500GB",
+        "nom": "7 : Crucial MX500 SSD 500GB",
         "categorie": "SSD",
         "prixNeuf": 232.20,
         "prixOccasion": 50,
@@ -70,7 +70,7 @@
     },
 
     {
-        "nom": "Western Digital HDD 1To",
+        "nom": "8 : Western Digital HDD 1To",
         "categorie": "HDD",
         "prixNeuf": 83,
         "prixOccasion": 40,
