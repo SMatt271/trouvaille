@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produits - Trouvaille</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <script src="https://kit.fontawesome.com/6c5b899d4d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<header>
+    <div class="container nav-container">
+
+        <div class="logo">
+            <span>Trouvaille</span>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="produits.html" class="active">Produits</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <button id="theme-toggle">
+            🌙
+        </button>
+
+    </div>
+</header>
+
+<main class="container">
+
+    <h1 class="page-title">
+        Catalogue des composants
+    </h1>
+
+    <input
+        type="text"
+        id="searchInput"
+        class="search-box"
+        placeholder="Rechercher un produit..."
+    >
+
+    <div class="filters">
+
+        <button class="filter-btn" data-filter="all">
+            Tous
+        </button>
+
+        <button class="filter-btn" data-filter="RAM">
+            RAM
+        </button>
+
+        <button class="filter-btn" data-filter="SSD">
+            SSD
+        </button>
+
+        <button class="filter-btn" data-filter="HDD">
+            HDD
+        </button>
+
+    </div>
+
+    <div id="products-container" class="products-grid">
+        <!-- Généré automatiquement -->
+    </div>
+
+</main>
+
+<footer>
+
+    <div class="container footer-content">
+
+        <div>
+            <h3>Trouvaille</h3>
+            <p>Composants informatiques à prix négociables</p>
+        </div>
+
+        <div>
+            <h4>Navigation</h4>
+            <a href="index.html">Accueil</a>
+            <a href="produits.html">Produits</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+    </div>
+
+</footer>
+
+<script src="js/theme.js"></script>
+<script src="js/produits.js"></script>
+
+</body>
+</html>
