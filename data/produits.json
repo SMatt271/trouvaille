@@ -1,0 +1,61 @@
+[
+    {
+        "nom": "Kingston DDR4 8Go 2133MHz",
+        "categorie": "RAM",
+        "prixNeuf": 53.39,
+        "prixOccasion": 40,
+        "monPrix": 30,
+        "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
+        "image": "images/ram/KingstonRAM_8GB_DDR4_2133MHZ.png"
+    },
+
+    {
+        "nom": "SK Hynix DDR4 8Go 3200MHZ",
+        "categorie": "RAM",
+        "prixNeuf": 84.07,
+        "prixOccasion": 55,
+        "monPrix": 40,
+        "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
+        "image": "images/ram/SKRAM_8GB_DDR4.png"
+    },
+
+    {
+        "nom": "SK Hynix DDR4 8Go 2400MHZ",
+        "categorie": "RAM",
+        "prixNeuf": 54.64,
+        "prixOccasion": 30,
+        "monPrix": 20,
+        "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
+        "image": "images/ram/SKRAM_8GB_DDR4.png"
+    },
+
+    {
+        "nom": "Crucial MX500 SSD 1To",
+        "categorie": "SSD",
+        "prixNeuf": 430.70,
+        "prixOccasion": 90,
+        "monPrix": 90,
+        "description": "SSD Crucial MX500 performant pour système d'exploitation et stockage rapide.",
+        "image": "images/ssd/SSDCRUCIAL_MX500.png"
+    },
+
+    {
+        "nom": "Crucial MX500 SSD 500GB",
+        "categorie": "SSD",
+        "prixNeuf": 232.20,
+        "prixOccasion": 50,
+        "monPrix": 50,
+        "description": "SSD Crucial MX500 performant pour système d'exploitation et stockage rapide.",
+        "image": "images/ssd/SSDCRUCIAL_MX500.png"
+    },
+
+    {
+        "nom": "Western Digital HDD 1To",
+        "categorie": "HDD",
+        "prixNeuf": 83,
+        "prixOccasion": 40,
+        "monPrix": 35,
+        "description": "Disque dur Western Digital 1To idéal pour le stockage de données.",
+        "image": "images/hdd/HDDWD_1To.png"
+    }
+]
