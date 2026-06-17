@@ -61,6 +61,11 @@ function afficherProduits(liste) {
                     ${produit.categorie}
                 </p>
 
+                <p>
+                    <strong>Stock :</strong>
+                    ${produit.stock}
+                </p>
+
                 ${
                     produit.prixNeuf
                     ? `<p class="price-market">
