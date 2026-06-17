@@ -1,80 +1,77 @@
 [
     {
-        "nom": "1 : Kingston DDR4 8Go 2133MHz",
+        "nom": "Kingston DDR4 8Go 2133MHz",
         "categorie": "RAM",
+        "stock" : "6",
         "prixNeuf": 53.39,
-        "prixOccasion": 40,
-        "monPrix": 35,
-        "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
-        "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
-    },
-
-    {
-        "nom": "2 : Kingston DDR4 8Go 2133MHz",
-        "categorie": "RAM",
-        "prixNeuf": 53.39,
-        "prixOccasion": 40,
-        "monPrix": 35,
-        "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
-        "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
-    },
-
-    {
-        "nom": "3 : Kingston DDR4 8Go 2133MHz",
-        "categorie": "RAM",
-        "prixNeuf": 53.39,
-        "prixOccasion": 40,
-        "monPrix": 35,
-        "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
-        "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
-    },
-
-    {
-        "nom": "4 : SK Hynix DDR4 8Go 3200MHZ",
-        "categorie": "RAM",
-        "prixNeuf": 84.07,
-        "prixOccasion": 55,
-        "monPrix": 45,
-        "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
-        "image": "SKRAM_8GB_DDR4.png"
-    },
-
-    {
-        "nom": "5 : SK Hynix DDR4 8Go 2400MHZ",
-        "categorie": "RAM",
-        "prixNeuf": 54.64,
         "prixOccasion": 30,
         "monPrix": 25,
-        "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
+        "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
+        "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
+    },
+
+    {
+        "nom": "Integral Memory DDR3 8Go 1600MHz",
+        "categorie": "RAM",
+        "stock" : "2",
+        "prixNeuf": 30,
+        "prixOccasion": 15,
+        "monPrix": 10,
+        "description": "Barrette mémoire Integral Memory 8Go. Compatible avec la majorité des cartes mères DDR3.",
+        "image": "Integral_Memory_DDR3.png"
+    },
+    
+    {
+        "nom": "SK Hynix DDR4 8Go 3200MHZ",
+        "categorie": "RAM",
+        "stock" : "1",
+        "prixNeuf": 84.07,
+        "prixOccasion": 50,
+        "monPrix": 40,
+        "description": "Barrette mémoire SK Hynix DDR4 8Go. Compatible avec la majorité des cartes mères DDR4.",
         "image": "SKRAM_8GB_DDR4.png"
     },
 
     {
-        "nom": "6  : Crucial MX500 SSD 1To",
+        "nom": "SK Hynix DDR4 8Go 2400MHZ",
+        "categorie": "RAM",
+        "stock" : "1",
+        "prixNeuf": 54.64,
+        "prixOccasion": 35,
+        "monPrix": 30,
+        "description": "Barrette mémoire SK Hynix DDR4 8Go. Compatible avec la majorité des cartes mères DDR4.",
+        "image": "SKRAM_8GB_DDR4.png"
+    },
+
+    {
+        "nom": "Crucial MX500 SSD 1To",
         "categorie": "SSD",
+        "stock" : "1",
         "prixNeuf": 430.70,
-        "prixOccasion": 90,
-        "monPrix": 90,
+        "prixOccasion": 80,
+        "monPrix": 80,
         "description": "SSD Crucial MX500 performant pour système d'exploitation et stockage rapide.",
         "image": "SSDCRUCIAL_MX500.png"
     },
 
     {
-        "nom": "7 : Crucial MX500 SSD 500GB",
+        "nom": "Crucial MX500 SSD 500GB",
         "categorie": "SSD",
+        "stock" : "1",
         "prixNeuf": 232.20,
-        "prixOccasion": 50,
-        "monPrix": 50,
+        "prixOccasion": 40,
+        "monPrix": 40,
         "description": "SSD Crucial MX500 performant pour système d'exploitation et stockage rapide.",
         "image": "SSDCRUCIAL_MX500.png"
     },
 
     {
-        "nom": "8 : Western Digital HDD 1To",
+        "nom": "Western Digital HDD 1To",
         "categorie": "HDD",
+        "stock" : "1",
         "prixNeuf": 83,
-        "prixOccasion": 40,
-        "monPrix": 35,
+        "prixOccasion": 35,
+        "monPrix": 30,
         "description": "Disque dur Western Digital 1To idéal pour le stockage de données.",
         "image": "HDDWD_1To.png"
     }
