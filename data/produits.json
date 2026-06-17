@@ -4,7 +4,7 @@
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
-        "monPrix": 30,
+        "monPrix": 35,
         "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
         "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
     },
@@ -14,7 +14,7 @@
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
-        "monPrix": 30,
+        "monPrix": 35,
         "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
         "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
     },
@@ -24,7 +24,7 @@
         "categorie": "RAM",
         "prixNeuf": 53.39,
         "prixOccasion": 40,
-        "monPrix": 30,
+        "monPrix": 35,
         "description": "Mémoire Kingston DDR4 8Go 2133MHz. Compatible avec la majorité des cartes mères DDR4.",
         "image": "KingstonRAM_8GB_DDR4_2133MHZ.png"
     },
@@ -34,7 +34,7 @@
         "categorie": "RAM",
         "prixNeuf": 84.07,
         "prixOccasion": 55,
-        "monPrix": 40,
+        "monPrix": 45,
         "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
         "image": "SKRAM_8GB_DDR4.png"
     },
@@ -44,7 +44,7 @@
         "categorie": "RAM",
         "prixNeuf": 54.64,
         "prixOccasion": 30,
-        "monPrix": 20,
+        "monPrix": 25,
         "description": "Barrette mémoire SK Hynix DDR4 8Go testée et fonctionnelle.",
         "image": "SKRAM_8GB_DDR4.png"
     },
